@@ -1,0 +1,12 @@
+streamlit
+pdfplumber
+plotly
+nltk
+python-dotenv
+python-docx
+openai
+pygame
+pandas
+sentence-piece
+gtts
+SpeechRecognition
